@@ -10,6 +10,7 @@
       "buttonAddProperty": "Add",
       "columnName": "Property",
       "columnOptions": "Property values",
+      "columnFilterable": "Display in Product Filter",
       "contextMenuView": "Edit",
       "contextMenuDelete": "Delete",
       "titleSidebarItemRefresh": "Refresh",
