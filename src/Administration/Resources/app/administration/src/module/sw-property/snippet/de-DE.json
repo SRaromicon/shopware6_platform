@@ -30,6 +30,7 @@
       "cardTitleGroupInfo": "Basisinformation",
       "labelName": "Name",
       "placeholderName": "Namen eingeben ...",
+      "labelFilterable": "Im Produkt-Filter des Produkt-Listings anzeigen",
       "labelDisplayType": "Darstellung der Ausprägungsauswahl",
       "labelSortingType": "Sortierung",
       "labelOptionName": "Name",

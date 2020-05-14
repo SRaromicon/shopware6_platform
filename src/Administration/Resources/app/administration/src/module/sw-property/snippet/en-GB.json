@@ -30,6 +30,7 @@
       "cardTitleGroupInfo": "Basic information",
       "labelName": "Name",
       "placeholderName": "Enter name...",
+      "labelFilterable": "Display in Product Listing Filter Panel",
       "labelDisplayType": "Value display type",
       "labelSortingType": "Sorting",
       "labelOptionName": "Name",
