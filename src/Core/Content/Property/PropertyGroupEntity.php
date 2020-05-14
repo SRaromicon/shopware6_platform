@@ -69,7 +69,7 @@ class PropertyGroupEntity extends Entity
     /**
      * @return bool
      */
-    public function isFilterable(): bool
+    public function getFilterable(): bool
     {
         return $this->filterable;
     }
